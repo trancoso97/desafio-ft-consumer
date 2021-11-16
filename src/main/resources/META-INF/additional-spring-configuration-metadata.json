@@ -1,0 +1,16 @@
+{"properties": [{
+  "name": "app.kafka.host",
+  "type": "java.lang.String",
+  "description": "Kafka host (111.112.113.114:9092)"
+},
+{
+    "name": "app.kafka.topic",
+    "type": "java.lang.String",
+    "description": "Kafka topic name"
+},
+{
+    "name": "app.kafka.groupid",
+    "type": "java.lang.String",
+    "description": "Kafka group id"
+}
+]}
